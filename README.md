@@ -201,6 +201,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- [IPLoop/ProxyClaw](https://github.com/Iploop/proxyclaw) - Residential proxy for AI agents. 2M+ real device IPs, 195+ countries, TLS fingerprinting, 66 site presets. Python + Node.js SDKs.
 - <img src="https://cdn.simpleicons.org/puppeteer/00D8A2" height="14"/> [Puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
 - <img src="https://cdn.simpleicons.org/brave/FB542B" height="14"/> [Brave Search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search capabilities using Brave's Search API
 - <img src="https://github.com/user-attachments/assets/5d9346e8-7821-4202-80cd-25e0678d3400" height="14"/> [Bright Data](https://github.com/luminati-io/brightdata-mcp) - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
